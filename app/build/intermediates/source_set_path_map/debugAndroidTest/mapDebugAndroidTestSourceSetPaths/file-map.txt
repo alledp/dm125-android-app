@@ -1,0 +1,5 @@
+com.aduilio.mytasks.test.app-core-1.6.1-0 /Users/novalabs/.gradle/caches/transforms-4/61a74157fae4020ab95f8143adf4b831/transformed/core-1.6.1/res
+com.aduilio.mytasks.test.app-androidTest-1 /Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/build/generated/res/resValues/androidTest/debug
+com.aduilio.mytasks.test.app-mergeDebugAndroidTestResources-2 /Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.aduilio.mytasks.test.app-mergeDebugAndroidTestResources-3 /Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.aduilio.mytasks.test.app-debugAndroidTest-4 /Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
