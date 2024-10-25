@@ -13,6 +13,7 @@ import androidx.viewbinding.ViewBindings;
 import com.aduilio.mytasks.R;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
+import com.google.android.material.textview.MaterialTextView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -25,13 +26,13 @@ public final class ActivityTaskFormBinding implements ViewBinding {
   public final Button btSave;
 
   @NonNull
-  public final TextInputEditText etDate;
+  public final MaterialTextView etDate;
 
   @NonNull
   public final TextInputEditText etDescription;
 
   @NonNull
-  public final TextInputEditText etTime;
+  public final MaterialTextView etTime;
 
   @NonNull
   public final TextInputEditText etTitle;
@@ -49,8 +50,8 @@ public final class ActivityTaskFormBinding implements ViewBinding {
   public final TextInputLayout tilTitle;
 
   private ActivityTaskFormBinding(@NonNull ConstraintLayout rootView, @NonNull Button btSave,
-      @NonNull TextInputEditText etDate, @NonNull TextInputEditText etDescription,
-      @NonNull TextInputEditText etTime, @NonNull TextInputEditText etTitle,
+      @NonNull MaterialTextView etDate, @NonNull TextInputEditText etDescription,
+      @NonNull MaterialTextView etTime, @NonNull TextInputEditText etTitle,
       @NonNull TextInputLayout tilDate, @NonNull TextInputLayout tilDescription,
       @NonNull TextInputLayout tilTime, @NonNull TextInputLayout tilTitle) {
     this.rootView = rootView;
@@ -99,7 +100,7 @@ public final class ActivityTaskFormBinding implements ViewBinding {
       }
 
       id = R.id.etDate;
-      TextInputEditText etDate = ViewBindings.findChildViewById(rootView, id);
+      MaterialTextView etDate = ViewBindings.findChildViewById(rootView, id);
       if (etDate == null) {
         break missingId;
       }
@@ -111,7 +112,7 @@ public final class ActivityTaskFormBinding implements ViewBinding {
       }
 
       id = R.id.etTime;
-      TextInputEditText etTime = ViewBindings.findChildViewById(rootView, id);
+      MaterialTextView etTime = ViewBindings.findChildViewById(rootView, id);
       if (etTime == null) {
         break missingId;
       }

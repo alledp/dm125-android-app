@@ -28,6 +28,9 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final Button btLogin;
 
   @NonNull
+  public final Button btLoginGoogle;
+
+  @NonNull
   public final TextInputEditText etEmail;
 
   @NonNull
@@ -40,12 +43,13 @@ public final class ActivityLoginBinding implements ViewBinding {
   public final TextInputLayout tilPassword;
 
   private ActivityLoginBinding(@NonNull ConstraintLayout rootView, @NonNull Button btCreateAccount,
-      @NonNull Button btLogin, @NonNull TextInputEditText etEmail,
+      @NonNull Button btLogin, @NonNull Button btLoginGoogle, @NonNull TextInputEditText etEmail,
       @NonNull TextInputEditText etPassword, @NonNull TextInputLayout tilEmail,
       @NonNull TextInputLayout tilPassword) {
     this.rootView = rootView;
     this.btCreateAccount = btCreateAccount;
     this.btLogin = btLogin;
+    this.btLoginGoogle = btLoginGoogle;
     this.etEmail = etEmail;
     this.etPassword = etPassword;
     this.tilEmail = tilEmail;
@@ -91,6 +95,12 @@ public final class ActivityLoginBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.btLoginGoogle;
+      Button btLoginGoogle = ViewBindings.findChildViewById(rootView, id);
+      if (btLoginGoogle == null) {
+        break missingId;
+      }
+
       id = R.id.etEmail;
       TextInputEditText etEmail = ViewBindings.findChildViewById(rootView, id);
       if (etEmail == null) {
@@ -116,7 +126,7 @@ public final class ActivityLoginBinding implements ViewBinding {
       }
 
       return new ActivityLoginBinding((ConstraintLayout) rootView, btCreateAccount, btLogin,
-          etEmail, etPassword, tilEmail, tilPassword);
+          btLoginGoogle, etEmail, etPassword, tilEmail, tilPassword);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

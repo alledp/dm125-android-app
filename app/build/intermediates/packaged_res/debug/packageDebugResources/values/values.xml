@@ -9,6 +9,7 @@
     <color name="orange_200">#FFE082</color>
     <color name="orange_700">#FFA000</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="GoogleLogin">Login com Google</string>
     <string name="accept">Aceito</string>
     <string name="app_name">MyTasks</string>
     <string name="create_account">Criar conta</string>
@@ -16,6 +17,7 @@
     <string name="daily_notification_off">Não receber notificações diárias</string>
     <string name="daily_notification_on">Receber notificações diárias</string>
     <string name="date">Data</string>
+    <string name="default_web_client_id" translatable="false">875476115736-v0c6pqk2jgp7to13bnrfhia7b16gkn3b.apps.googleusercontent.com</string>
     <string name="description">Descrição</string>
     <string name="email">E-mail</string>
     <string name="empty_tasks">Não existe nenhuma tarefa cadastrada.\n\nQue tal que criar uma nova tarefa?</string>

@@ -16,6 +16,7 @@ id action_logout
 id action_settings
 id btCreateAccount
 id btLogin
+id btLoginGoogle
 id btSave
 id etDate
 id etDescription
@@ -44,6 +45,7 @@ layout activity_task_form
 layout task_list_item
 menu main_menu
 mipmap ic_launcher
+string GoogleLogin
 string accept
 string app_name
 string create_account
@@ -51,6 +53,7 @@ string daily_notification
 string daily_notification_off
 string daily_notification_on
 string date
+string default_web_client_id
 string description
 string email
 string empty_tasks

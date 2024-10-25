@@ -57,11 +57,16 @@
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="136dp">
 
-        <com.google.android.material.textfield.TextInputEditText
+        <com.google.android.material.textview.MaterialTextView
             android:id="@+id/etDate"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="60dp"
+            android:textAlignment="center"
+            android:padding="16dp"
+            android:textSize="18sp"
+            android:background="@drawable/common_google_signin_btn_icon_light_normal_background"
             android:hint="@string/date" />
+
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -78,10 +83,14 @@
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="136dp">
 
-        <com.google.android.material.textfield.TextInputEditText
+        <com.google.android.material.textview.MaterialTextView
             android:id="@+id/etTime"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="60dp"
+            android:textAlignment="center"
+            android:padding="16dp"
+            android:textSize="18sp"
+            android:background="@drawable/common_google_signin_btn_icon_light_normal_background"
             android:hint="@string/time" />
 
     </com.google.android.material.textfield.TextInputLayout>
