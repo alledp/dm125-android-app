@@ -27,9 +27,17 @@ class LoginActivity : AppCompatActivity() {
             login()
         }
 
+        binding.btLoginGoogle.setOnClickListener{
+            googleLogin()
+        }
+
         binding.btCreateAccount.setOnClickListener {
             createAccount()
         }
+    }
+
+    private fun googleLogin() {
+        TODO("Not yet implemented")
     }
 
     private fun login() {
@@ -52,7 +60,6 @@ class LoginActivity : AppCompatActivity() {
                         ).show()
                     }
                 }
-
     }
 
     private fun createAccount() {

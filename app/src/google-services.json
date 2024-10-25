@@ -12,7 +12,12 @@
           "package_name": "com.aduilio.mytasks"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "875476115736-v0c6pqk2jgp7to13bnrfhia7b16gkn3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAbLOvKHuLnIbW2WmYOsOAijKHHMuQMqVg"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875476115736-v0c6pqk2jgp7to13bnrfhia7b16gkn3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
