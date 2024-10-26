@@ -4084,6 +4084,9 @@ int string daily_notification 0x7f110048
 int string daily_notification_off 0x7f110049
 int string daily_notification_on 0x7f11004a
 int string date 0x7f11004b
+int string date_format 0x7f1100e7
+int string date_format_month_off 0x7f1100e8
+int string date_format_month_on 0x7f1100e9
 int string default_web_client_id 0x7f11004c
 int string description 0x7f11004d
 int string email 0x7f11004e
@@ -4222,6 +4225,7 @@ int string path_password_eye_mask_strike_through 0x7f1100d2
 int string path_password_eye_mask_visible 0x7f1100d3
 int string path_password_strike_through 0x7f1100d4
 int string preference_copied 0x7f1100d5
+int string preferences 0x7f1100ea
 int string project_id 0x7f1100d6
 int string save 0x7f1100d7
 int string search_menu_title 0x7f1100d8

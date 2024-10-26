@@ -25,5 +25,9 @@
     <string name="share">Compartilhar</string>
     <string name="share_using">Compartilhar a tarefa com...</string>
     <string name="GoogleLogin">Login com Google</string>
+    <string name="date_format">Formato da Data</string>
+    <string name="preferences">Preferências</string>
+    <string name="date_format_month_off">A data sera exibida com o número do mês 2021-12-01</string>
+    <string name="date_format_month_on">A data sera exibida com o nome do mês 01 de Dezembro de 2021</string>
 
 </resources>

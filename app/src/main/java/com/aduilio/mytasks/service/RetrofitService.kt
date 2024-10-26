@@ -18,7 +18,7 @@ class RetrofitService {
 
     init {
         val retrofit = Retrofit.Builder()
-                .baseUrl("http://192.168.0.107:8080/")
+                .baseUrl("http://10.0.56.90:8080/")
                 .client(configureClient())
                 .addConverterFactory(configureConverter())
                 .build()

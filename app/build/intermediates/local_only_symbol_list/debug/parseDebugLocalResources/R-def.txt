@@ -54,6 +54,9 @@ string daily_notification
 string daily_notification_off
 string daily_notification_on
 string date
+string date_format
+string date_format_month_off
+string date_format_month_on
 string default_web_client_id
 string description
 string email
@@ -72,6 +75,7 @@ string not_accept
 string notification_permission_rationale
 string notifications
 string password
+string preferences
 string project_id
 string save
 string settings

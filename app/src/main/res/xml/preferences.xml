@@ -11,4 +11,13 @@
 
     </PreferenceCategory>
 
+    <PreferenceCategory android:title="@string/preferences">
+
+        <SwitchPreferenceCompat
+            android:summaryOff="@string/date_format_month_off"
+            android:summaryOn="@string/date_format_month_on"
+            android:title="@string/date_format" />
+
+    </PreferenceCategory>
+
 </PreferenceScreen>

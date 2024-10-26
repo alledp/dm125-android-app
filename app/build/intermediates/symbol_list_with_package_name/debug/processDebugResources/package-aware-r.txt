@@ -4085,6 +4085,9 @@ string daily_notification
 string daily_notification_off
 string daily_notification_on
 string date
+string date_format
+string date_format_month_off
+string date_format_month_on
 string default_web_client_id
 string description
 string email
@@ -4223,6 +4226,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string preference_copied
+string preferences
 string project_id
 string save
 string search_menu_title
