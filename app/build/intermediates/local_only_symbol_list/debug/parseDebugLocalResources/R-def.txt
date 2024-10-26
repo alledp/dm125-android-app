@@ -37,6 +37,7 @@ id tilTime
 id tilTitle
 id tvDate
 id tvMessage
+id tvTime
 id tvTitle
 layout activity_login
 layout activity_main

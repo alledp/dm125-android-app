@@ -53,4 +53,13 @@ class TaskService : ViewModel() {
 
         return taskLiveData
     }
+
+    fun readById(id: Long): LiveData<ResponseDto<Task>> {
+        val taskData = MutableLiveData<ResponseDto<Task>>()
+
+        taskRepository.readById(id).enqueue(MyCallback(taskData))
+
+        return taskData
+    }
+
 }

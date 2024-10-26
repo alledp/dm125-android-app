@@ -23,12 +23,16 @@ public final class TaskListItemBinding implements ViewBinding {
   public final TextView tvDate;
 
   @NonNull
+  public final TextView tvTime;
+
+  @NonNull
   public final TextView tvTitle;
 
   private TaskListItemBinding(@NonNull MaterialCardView rootView, @NonNull TextView tvDate,
-      @NonNull TextView tvTitle) {
+      @NonNull TextView tvTime, @NonNull TextView tvTitle) {
     this.rootView = rootView;
     this.tvDate = tvDate;
+    this.tvTime = tvTime;
     this.tvTitle = tvTitle;
   }
 
@@ -65,13 +69,19 @@ public final class TaskListItemBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.tvTime;
+      TextView tvTime = ViewBindings.findChildViewById(rootView, id);
+      if (tvTime == null) {
+        break missingId;
+      }
+
       id = R.id.tvTitle;
       TextView tvTitle = ViewBindings.findChildViewById(rootView, id);
       if (tvTitle == null) {
         break missingId;
       }
 
-      return new TaskListItemBinding((MaterialCardView) rootView, tvDate, tvTitle);
+      return new TaskListItemBinding((MaterialCardView) rootView, tvDate, tvTime, tvTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

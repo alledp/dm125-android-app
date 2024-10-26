@@ -3758,6 +3758,7 @@ id transition_transform
 id triangle
 id tvDate
 id tvMessage
+id tvTime
 id tvTitle
 id unchecked
 id uniform

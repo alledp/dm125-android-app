@@ -1,5 +1,6 @@
 package com.aduilio.mytasks.activity
 
+import android.annotation.SuppressLint
 import android.app.DatePickerDialog
 import android.app.TimePickerDialog
 import android.content.Intent
@@ -8,8 +9,6 @@ import android.os.Bundle
 import android.util.Log
 import android.view.MenuItem
 import android.view.View
-import android.widget.DatePicker
-import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
@@ -45,22 +44,28 @@ class TaskFormActivity : AppCompatActivity() {
             supportActionBar?.setDisplayHomeAsUpEnabled(false)
         }
 
+        taskId = intent.getLongExtra("task_id", -1)
+
+        Toast.makeText(this, " ID da tarefa é" + taskId.toString(), Toast.LENGTH_SHORT).show()
+
         initComponents()
         setValues()
     }
 
     private fun initComponents() {
         binding.btSave.setOnClickListener {
-            val task = Task(title = binding.etTitle.text.toString(),
-                description = binding.etDescription.text.toString(),
-                //date = chosenDate,
-                //time = chosenTime,
-                id = taskId)
-            taskService.save(task).observe(this) { responseDto ->
-                if (responseDto.isError) {
-                    Toast.makeText(this, "Erro com o servidor", Toast.LENGTH_SHORT).show()
-                } else {
-                    finish()
+            if(formValidate()){
+                val task = Task(title = binding.etTitle.text.toString(),
+                    description = binding.etDescription.text.toString(),
+                    date = if (binding.etDate.text.isNullOrEmpty()) null else LocalDate.parse(binding.etDate.text.toString()),
+                    time = if (binding.etTime.text.isNullOrEmpty()) null else LocalTime.parse(binding.etTime.text.toString()),
+                    id = taskId)
+                taskService.save(task).observe(this) { responseDto ->
+                    if (responseDto.isError) {
+                        Toast.makeText(this, "Server Error", Toast.LENGTH_SHORT).show()
+                    } else {
+                        finish()
+                    }
                 }
             }
         }
@@ -73,8 +78,18 @@ class TaskFormActivity : AppCompatActivity() {
 
     }
 
+    private fun formValidate(): Boolean {
+        if(binding.etTitle.text.toString().isEmpty()){
+            Toast.makeText(this, "O Titulo é Obrigatório", Toast.LENGTH_SHORT).show()
+            return false
+        }
+        //Data e Hora não precisam ser validados pois já estão se utilizando do Date e Time picker.
+        return true
+    }
+
+    @SuppressLint("SimpleDateFormat")
     private fun showTimePicker() {
-        val timeSetListener = TimePickerDialog.OnTimeSetListener { timePicker, hour, minute ->
+        val timeSetListener = TimePickerDialog.OnTimeSetListener { _, hour, minute ->
             calendar.set(Calendar.HOUR_OF_DAY, hour)
             calendar.set(Calendar.MINUTE, minute)
             binding.etTime.text = SimpleDateFormat("HH:mm").format(calendar.time)
@@ -86,12 +101,12 @@ class TaskFormActivity : AppCompatActivity() {
     }
 
     private fun showDatePicker() {
-        val datePickerDialog = DatePickerDialog(this, {DatePicker, year: Int,monthOfYear: Int, dayOfMonth: Int ->
+        val datePickerDialog = DatePickerDialog(this, {_, year: Int,monthOfYear: Int, dayOfMonth: Int ->
             val selectedDate = Calendar.getInstance()
 
             selectedDate.set(year, monthOfYear, dayOfMonth)
 
-            val dateFormat = SimpleDateFormat("dd/MM/yyyy", Locale.getDefault())
+            val dateFormat = SimpleDateFormat("yyyy-MM-dd", Locale.getDefault())
             binding.etDate.text = dateFormat.format(selectedDate.time)
 
             },
@@ -99,17 +114,17 @@ class TaskFormActivity : AppCompatActivity() {
             calendar.get(Calendar.MONTH),
             calendar.get(Calendar.DAY_OF_MONTH)
         )
-
         datePickerDialog.show()
     }
-
 
     @Suppress("deprecation")
     private fun setValues() {
         (intent.extras?.getSerializable("task") as Task?)?.let { task ->
             taskId = task.id
             binding.etTitle.setText(task.title)
-
+            binding.etDescription.setText(task.description)
+            binding.etDate.text = task.date?.toString()
+            binding.etTime.text = task.time?.toString()
             if (task.completed) {
                 binding.btSave.visibility = View.INVISIBLE
             }

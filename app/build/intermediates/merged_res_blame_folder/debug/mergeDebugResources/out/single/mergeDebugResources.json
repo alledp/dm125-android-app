@@ -40,10 +40,6 @@
         "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.aduilio.mytasks.app-debug-50:/layout_activity_task_form.xml.flat",
-        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_task_form.xml"
-    },
-    {
         "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout_activity_task_form.xml.flat",
         "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_task_form.xml"
     },
@@ -54,6 +50,10 @@
     {
         "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout_activity_login.xml.flat",
         "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.aduilio.mytasks.app-debug-50:/layout_task_list_item.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/task_list_item.xml"
     },
     {
         "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/xml_data_extraction_rules.xml.flat",
