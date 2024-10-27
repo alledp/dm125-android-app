@@ -14,6 +14,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.aduilio.mytasks.databinding.ActivityTaskFormBinding
 import com.aduilio.mytasks.entity.Task
+import com.aduilio.mytasks.repository.ResponseDto
 import com.aduilio.mytasks.service.TaskService
 import java.text.SimpleDateFormat
 import java.time.LocalDate
@@ -44,9 +45,7 @@ class TaskFormActivity : AppCompatActivity() {
             supportActionBar?.setDisplayHomeAsUpEnabled(false)
         }
 
-        taskId = intent.getLongExtra("task_id", -1)
-
-        Toast.makeText(this, " ID da tarefa é" + taskId.toString(), Toast.LENGTH_SHORT).show()
+        taskId = intent.extras?.getLong("task_id", -1)
 
         initComponents()
         setValues()
@@ -119,15 +118,22 @@ class TaskFormActivity : AppCompatActivity() {
 
     @Suppress("deprecation")
     private fun setValues() {
-        (intent.extras?.getSerializable("task") as Task?)?.let { task ->
-            taskId = task.id
-            binding.etTitle.setText(task.title)
-            binding.etDescription.setText(task.description)
-            binding.etDate.text = task.date?.toString()
-            binding.etTime.text = task.time?.toString()
-            if (task.completed) {
-                binding.btSave.visibility = View.INVISIBLE
-            }
+        if(taskId != -1L && taskId != null){
+             taskService.readById(taskId!!).observe(this){ responseDto ->
+                 if(responseDto.isError){
+                     Toast.makeText(this, "Erro ao carregar a tarefa", Toast.LENGTH_SHORT).show()
+                 }else{
+                     responseDto.value?.let { task ->
+                         binding.etTitle.setText(task.title)
+                         binding.etDescription.setText(task.description)
+                         binding.etDate.text = task.date?.toString()
+                         binding.etTime.text = task.time?.toString()
+                         if (task.completed) {
+                            binding.btSave.visibility = View.INVISIBLE
+                        }
+                     }
+                 }
+             }
         }
     }
 

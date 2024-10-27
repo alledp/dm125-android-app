@@ -130,6 +130,8 @@ class MainActivity : AppCompatActivity() {
                 } ?: run {
                     val intent = Intent(this@MainActivity, TaskFormActivity::class.java)
                     intent.putExtra("task", task)
+                    Log.e("DEBUG", "CHAMANDO TASK FORM ACTIVITY" + task.id)
+                    intent.putExtra("task_id", task.id)
                     startActivity(intent)
                 }
             }
