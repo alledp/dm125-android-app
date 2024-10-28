@@ -1,26 +1,22 @@
 [
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_main.xml",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_main.xml"
+        "merged": "com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_main.xml"
     },
     {
         "merged": "com.aduilio.mytasks.app-mergeDebugResources-49:/layout/task_list_item.xml",
         "source": "com.aduilio.mytasks.app-main-52:/layout/task_list_item.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_preference.xml",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_preference.xml"
+        "merged": "com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_login.xml",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-mergeDebugResources-49:/layout/task_list_item.xml",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/task_list_item.xml"
+        "merged": "com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_preference.xml",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_preference.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_task_form.xml",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_task_form.xml"
-    },
-    {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_login.xml",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_login.xml"
+        "merged": "com.aduilio.mytasks.app-mergeDebugResources-49:/layout/activity_task_form.xml",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_task_form.xml"
     }
 ]

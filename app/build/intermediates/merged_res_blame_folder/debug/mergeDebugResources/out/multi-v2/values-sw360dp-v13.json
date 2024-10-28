@@ -4,7 +4,7 @@
             "outputFile": "com.aduilio.mytasks.app-mergeDebugResources-48:/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/482713856059d51a31ab0289aec0edc9/transformed/preference-1.2.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/b72bb4f066e4120666082acb15c73b3a/transformed/preference-1.2.1/res/values-sw360dp-v13/values-sw360dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

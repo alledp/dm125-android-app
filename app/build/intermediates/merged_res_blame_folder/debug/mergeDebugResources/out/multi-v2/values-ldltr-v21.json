@@ -4,7 +4,7 @@
             "outputFile": "com.aduilio.mytasks.app-mergeDebugResources-48:/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/298b76059ba8e651b0bfc5fcdf0b9974/transformed/appcompat-1.7.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/25226175c7c56a5a9ce12e3b00abdc68/transformed/appcompat-1.7.0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

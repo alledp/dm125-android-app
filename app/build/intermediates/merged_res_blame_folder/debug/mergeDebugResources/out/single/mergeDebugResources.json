@@ -1,62 +1,58 @@
 [
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout_task_list_item.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/task_list_item.xml"
-    },
-    {
         "merged": "com.aduilio.mytasks.app-debug-50:/xml_preferences.xml.flat",
         "source": "com.aduilio.mytasks.app-main-52:/xml/preferences.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout_activity_preference.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_preference.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/layout_activity_preference.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_preference.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout-land_activity_main.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout-land/activity_main.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/layout-land_activity_main.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/layout-land/activity_main.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/menu_main_menu.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/menu/main_menu.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/xml_backup_rules.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/xml/backup_rules.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout_activity_main.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_main.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/mipmap_ic_launcher.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/mipmap/ic_launcher.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/drawable_ic_add.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/drawable/ic_add.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/layout_activity_main.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/drawable_ic_notification.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/drawable/ic_notification.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/drawable_ic_add.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/drawable/ic_add.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/xml_preferences.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/xml/preferences.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/xml_data_extraction_rules.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/xml_backup_rules.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/xml/backup_rules.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/menu_main_menu.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/menu/main_menu.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout_activity_task_form.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_task_form.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/layout_activity_task_form.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_task_form.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/mipmap_ic_launcher.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/mipmap/ic_launcher.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/drawable_ic_notification.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/drawable/ic_notification.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/layout_activity_login.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/layout/activity_login.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/layout_task_list_item.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/task_list_item.xml"
     },
     {
-        "merged": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-debug-50:/xml_data_extraction_rules.xml.flat",
-        "source": "/Users/novalabs/.gradle/daemon/8.7/com.aduilio.mytasks.app-main-52:/xml/data_extraction_rules.xml"
+        "merged": "com.aduilio.mytasks.app-debug-50:/layout_activity_login.xml.flat",
+        "source": "com.aduilio.mytasks.app-main-52:/layout/activity_login.xml"
     }
 ]

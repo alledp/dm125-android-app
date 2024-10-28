@@ -4,7 +4,7 @@
             "outputFile": "com.aduilio.mytasks.app-mergeDebugResources-48:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/298b76059ba8e651b0bfc5fcdf0b9974/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/25226175c7c56a5a9ce12e3b00abdc68/transformed/appcompat-1.7.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/res/values-watch-v20/values.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

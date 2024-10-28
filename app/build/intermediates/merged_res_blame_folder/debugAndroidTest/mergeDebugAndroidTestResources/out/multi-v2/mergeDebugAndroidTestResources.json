@@ -4,7 +4,7 @@
             "outputFile": "com.aduilio.mytasks.test.app-debugAndroidTest-4:/values-v21_values-v21.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/61a74157fae4020ab95f8143adf4b831/transformed/core-1.6.1/res/values-v21/values.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/6b88f0b942d09e69ee8f6e21ad8c038a/transformed/core-1.6.1/res/values-v21/values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -28,7 +28,7 @@
             "outputFile": "com.aduilio.mytasks.test.app-debugAndroidTest-4:/values-v18_values-v18.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/61a74157fae4020ab95f8143adf4b831/transformed/core-1.6.1/res/values-v18/values.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/6b88f0b942d09e69ee8f6e21ad8c038a/transformed/core-1.6.1/res/values-v18/values.xml",
                     "from": {
                         "startLines": "4,12",
                         "startColumns": "0,0",
@@ -52,7 +52,7 @@
             "outputFile": "com.aduilio.mytasks.test.app-debugAndroidTest-4:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/61a74157fae4020ab95f8143adf4b831/transformed/core-1.6.1/res/values/values.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/6b88f0b942d09e69ee8f6e21ad8c038a/transformed/core-1.6.1/res/values/values.xml",
                     "from": {
                         "startLines": "4,11",
                         "startColumns": "0,0",
@@ -76,7 +76,7 @@
             "outputFile": "com.aduilio.mytasks.test.app-debugAndroidTest-4:/values-v28_values-v28.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/61a74157fae4020ab95f8143adf4b831/transformed/core-1.6.1/res/values-v28/values.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/6b88f0b942d09e69ee8f6e21ad8c038a/transformed/core-1.6.1/res/values-v28/values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",

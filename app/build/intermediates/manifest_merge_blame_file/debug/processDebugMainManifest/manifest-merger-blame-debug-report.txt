@@ -15,35 +15,35 @@
 12-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:6:5-77
 12-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:6:22-74
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
-13-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:22-76
+13-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+13-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:22-76
 14    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-14-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:24:5-68
-14-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:24:22-65
+14-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:24:5-68
+14-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:24:22-65
 15    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-15-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:26:5-82
-15-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:26:22-79
+15-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:26:5-82
+15-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:26:22-79
 16    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
-16-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/novalabs/.gradle/caches/transforms-4/3781286c03f8a8013f62134ee899495d/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
-16-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/novalabs/.gradle/caches/transforms-4/3781286c03f8a8013f62134ee899495d/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+16-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/novalabs/.gradle/caches/transforms-4/16078c30af3d532500c851a41bd0d3c1/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+16-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/novalabs/.gradle/caches/transforms-4/16078c30af3d532500c851a41bd0d3c1/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
 17
 18    <permission
-18-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/9971067ea4acfb275af6f00701cc3a5d/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+18-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/42447cf686a1b8a1a31642c20dd0eb33/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 19        android:name="com.aduilio.mytasks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-19-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/9971067ea4acfb275af6f00701cc3a5d/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+19-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/42447cf686a1b8a1a31642c20dd0eb33/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
 20        android:protectionLevel="signature" />
-20-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/9971067ea4acfb275af6f00701cc3a5d/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+20-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/42447cf686a1b8a1a31642c20dd0eb33/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 21
 22    <uses-permission android:name="com.aduilio.mytasks.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-22-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/9971067ea4acfb275af6f00701cc3a5d/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
-22-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/9971067ea4acfb275af6f00701cc3a5d/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+22-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/42447cf686a1b8a1a31642c20dd0eb33/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/42447cf686a1b8a1a31642c20dd0eb33/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 23
 24    <application
 24-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:8:5-60:19
 25        android:allowBackup="true"
 25-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:9:9-35
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-26-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/9971067ea4acfb275af6f00701cc3a5d/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+26-->[androidx.core:core:1.13.1] /Users/novalabs/.gradle/caches/transforms-4/42447cf686a1b8a1a31642c20dd0eb33/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 27        android:dataExtractionRules="@xml/data_extraction_rules"
 27-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:10:9-65
 28        android:debuggable="true"
@@ -140,99 +140,99 @@
 76-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:58:13-49
 77
 78        <service
-78-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/d31713154562cd889fb1d758105ac14c/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:8:9-14:19
+78-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/358928a771bf631c769717b09274e3f1/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:8:9-14:19
 79            android:name="com.google.firebase.components.ComponentDiscoveryService"
-79-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/d31713154562cd889fb1d758105ac14c/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:9:13-84
+79-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/358928a771bf631c769717b09274e3f1/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:9:13-84
 80            android:directBootAware="true"
-80-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+80-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
 81            android:exported="false" >
-81-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/d31713154562cd889fb1d758105ac14c/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:10:13-37
+81-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/358928a771bf631c769717b09274e3f1/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:10:13-37
 82            <meta-data
-82-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/d31713154562cd889fb1d758105ac14c/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:11:13-13:85
+82-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/358928a771bf631c769717b09274e3f1/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:11:13-13:85
 83                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
-83-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/d31713154562cd889fb1d758105ac14c/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:12:17-119
+83-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/358928a771bf631c769717b09274e3f1/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:12:17-119
 84                android:value="com.google.firebase.components.ComponentRegistrar" />
-84-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/d31713154562cd889fb1d758105ac14c/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:13:17-82
+84-->[com.google.firebase:firebase-auth-ktx:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/358928a771bf631c769717b09274e3f1/transformed/firebase-auth-ktx-23.0.0/AndroidManifest.xml:13:17-82
 85            <meta-data
-85-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+85-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
 86                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-86-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
+86-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
 87                android:value="com.google.firebase.components.ComponentRegistrar" />
-87-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
+87-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
 88            <meta-data
-88-->[com.google.firebase:firebase-messaging-ktx:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/ef5ac100d570e435fbab34a22fd4e7c3/transformed/firebase-messaging-ktx-24.0.1/AndroidManifest.xml:26:13-28:85
+88-->[com.google.firebase:firebase-messaging-ktx:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/41eb14427222a610e9affa270c12b9c6/transformed/firebase-messaging-ktx-24.0.1/AndroidManifest.xml:26:13-28:85
 89                android:name="com.google.firebase.components:com.google.firebase.messaging.ktx.FirebaseMessagingLegacyRegistrar"
-89-->[com.google.firebase:firebase-messaging-ktx:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/ef5ac100d570e435fbab34a22fd4e7c3/transformed/firebase-messaging-ktx-24.0.1/AndroidManifest.xml:27:17-129
+89-->[com.google.firebase:firebase-messaging-ktx:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/41eb14427222a610e9affa270c12b9c6/transformed/firebase-messaging-ktx-24.0.1/AndroidManifest.xml:27:17-129
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[com.google.firebase:firebase-messaging-ktx:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/ef5ac100d570e435fbab34a22fd4e7c3/transformed/firebase-messaging-ktx-24.0.1/AndroidManifest.xml:28:17-82
+90-->[com.google.firebase:firebase-messaging-ktx:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/41eb14427222a610e9affa270c12b9c6/transformed/firebase-messaging-ktx-24.0.1/AndroidManifest.xml:28:17-82
 91            <meta-data
-91-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:57:13-59:85
+91-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:57:13-59:85
 92                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingKtxRegistrar"
-92-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:58:17-122
+92-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:58:17-122
 93                android:value="com.google.firebase.components.ComponentRegistrar" />
-93-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:59:17-82
+93-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:59:17-82
 94            <meta-data
-94-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:60:13-62:85
+94-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:60:13-62:85
 95                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
-95-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:61:17-119
+95-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:61:17-119
 96                android:value="com.google.firebase.components.ComponentRegistrar" />
-96-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:62:17-82
+96-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:62:17-82
 97            <meta-data
-97-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/029375691c7433e902a493c487291526/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+97-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/6b62b1ce29cc1537ff96cb8b90c8ac0d/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
 98                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
-98-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/029375691c7433e902a493c487291526/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+98-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/6b62b1ce29cc1537ff96cb8b90c8ac0d/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
 99                android:value="com.google.firebase.components.ComponentRegistrar" />
-99-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/029375691c7433e902a493c487291526/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+99-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/6b62b1ce29cc1537ff96cb8b90c8ac0d/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
 100            <meta-data
-100-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/029375691c7433e902a493c487291526/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+100-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/6b62b1ce29cc1537ff96cb8b90c8ac0d/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
 101                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-101-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/029375691c7433e902a493c487291526/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+101-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/6b62b1ce29cc1537ff96cb8b90c8ac0d/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
 102                android:value="com.google.firebase.components.ComponentRegistrar" />
-102-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/029375691c7433e902a493c487291526/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+102-->[com.google.firebase:firebase-installations:18.0.0] /Users/novalabs/.gradle/caches/transforms-4/6b62b1ce29cc1537ff96cb8b90c8ac0d/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
 103            <meta-data
-103-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/b24bb7120b23f4029e9a903d08f5a2fa/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+103-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/01486ff00b210896f64334c09a1e8649/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
 104                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
-104-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/b24bb7120b23f4029e9a903d08f5a2fa/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+104-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/01486ff00b210896f64334c09a1e8649/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
 105                android:value="com.google.firebase.components.ComponentRegistrar" />
-105-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/b24bb7120b23f4029e9a903d08f5a2fa/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+105-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/01486ff00b210896f64334c09a1e8649/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
 106            <meta-data
-106-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+106-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
 107                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
-107-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+107-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
 108                android:value="com.google.firebase.components.ComponentRegistrar" />
-108-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+108-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
 109            <meta-data
-109-->[com.google.firebase:firebase-datatransport:18.2.0] /Users/novalabs/.gradle/caches/transforms-4/0bb5e2ab7eb11c2c97a5bba0afbf8ff1/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:25:13-27:85
+109-->[com.google.firebase:firebase-datatransport:18.2.0] /Users/novalabs/.gradle/caches/transforms-4/1a965991f0dd62f4340ffde3ec06ef10/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:25:13-27:85
 110                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
-110-->[com.google.firebase:firebase-datatransport:18.2.0] /Users/novalabs/.gradle/caches/transforms-4/0bb5e2ab7eb11c2c97a5bba0afbf8ff1/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:26:17-115
+110-->[com.google.firebase:firebase-datatransport:18.2.0] /Users/novalabs/.gradle/caches/transforms-4/1a965991f0dd62f4340ffde3ec06ef10/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:26:17-115
 111                android:value="com.google.firebase.components.ComponentRegistrar" />
-111-->[com.google.firebase:firebase-datatransport:18.2.0] /Users/novalabs/.gradle/caches/transforms-4/0bb5e2ab7eb11c2c97a5bba0afbf8ff1/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:27:17-82
+111-->[com.google.firebase:firebase-datatransport:18.2.0] /Users/novalabs/.gradle/caches/transforms-4/1a965991f0dd62f4340ffde3ec06ef10/transformed/firebase-datatransport-18.2.0/AndroidManifest.xml:27:17-82
 112        </service>
 113
 114        <activity
-114-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+114-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
 115            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-115-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+115-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
 116            android:excludeFromRecents="true"
-116-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+116-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
 117            android:exported="true"
-117-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+117-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
 118            android:launchMode="singleTask"
-118-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+118-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
 119            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-119-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+119-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
 120            <intent-filter>
-120-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+120-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
 121                <action android:name="android.intent.action.VIEW" />
-121-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
-121-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+121-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+121-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
 122
 123                <category android:name="android.intent.category.DEFAULT" />
 123-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:34:17-76
 123-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:34:27-73
 124                <category android:name="android.intent.category.BROWSABLE" />
-124-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
-124-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+124-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+124-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
 125
 126                <data
 126-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:33:17-55
@@ -242,29 +242,29 @@
 130            </intent-filter>
 131        </activity>
 132        <activity
-132-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+132-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
 133            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-133-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+133-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
 134            android:excludeFromRecents="true"
-134-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+134-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
 135            android:exported="true"
-135-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+135-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
 136            android:launchMode="singleTask"
-136-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+136-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
 137            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-137-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+137-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
 138            <intent-filter>
-138-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+138-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
 139                <action android:name="android.intent.action.VIEW" />
-139-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
-139-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+139-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+139-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
 140
 141                <category android:name="android.intent.category.DEFAULT" />
 141-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:34:17-76
 141-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:34:27-73
 142                <category android:name="android.intent.category.BROWSABLE" />
-142-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
-142-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/45ca0670bec535dbeb5c3135961f0028/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+142-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+142-->[com.google.firebase:firebase-auth:23.0.0] /Users/novalabs/.gradle/caches/transforms-4/717715aacdbe2594dc4767c7bb38999a/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
 143
 144                <data
 144-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:33:17-55
@@ -274,241 +274,240 @@
 148            </intent-filter>
 149        </activity>
 150
-151        <receiver
-151-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:29:9-40:20
-152            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-152-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:30:13-78
-153            android:exported="true"
-153-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:31:13-36
-154            android:permission="com.google.android.c2dm.permission.SEND" >
-154-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:32:13-73
-155            <intent-filter>
-155-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:33:13-35:29
-156                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-156-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:34:17-81
-156-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:34:25-78
-157            </intent-filter>
-158
-159            <meta-data
-159-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:37:13-39:40
-160                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
-160-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:38:17-92
-161                android:value="true" />
-161-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:39:17-37
-162        </receiver>
-163        <!--
-164             FirebaseMessagingService performs security checks at runtime,
-165             but set to not exported to explicitly avoid allowing another app to call it.
-166        -->
-167        <service
-167-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:46:9-53:19
-168            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-168-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:47:13-82
-169            android:directBootAware="true"
-169-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:48:13-43
-170            android:exported="false" >
-170-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/86bcb411f8e40e2d0fd02bc017cbf99d/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:49:13-37
-171            <intent-filter android:priority="-500" >
-171-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:47:13-49:29
-172                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-172-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:48:17-78
-172-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:48:25-75
-173            </intent-filter>
-174        </service>
-175
-176        <provider
-176-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
-177            android:name="com.google.firebase.provider.FirebaseInitProvider"
-177-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
-178            android:authorities="com.aduilio.mytasks.firebaseinitprovider"
-178-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
-179            android:directBootAware="true"
-179-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
-180            android:exported="false"
-180-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
-181            android:initOrder="100" />
-181-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/5cd81156e2c0a7488142a0cab410258d/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+151        <service
+151-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+152            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+152-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+153            android:enabled="true"
+153-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+154            android:exported="false" >
+154-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+155            <meta-data
+155-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+156                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+156-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+157                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+157-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+158        </service>
+159
+160        <activity
+160-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+161            android:name="androidx.credentials.playservices.HiddenActivity"
+161-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+162            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+162-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+163            android:enabled="true"
+163-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+164            android:exported="false"
+164-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+165            android:fitsSystemWindows="true"
+165-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+166            android:theme="@style/Theme.Hidden" >
+166-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/c3f677293927060c0bbcde21b692bdbe/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+167        </activity>
+168        <activity
+168-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
+169            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+169-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
+170            android:excludeFromRecents="true"
+170-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
+171            android:exported="false"
+171-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
+172            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+172-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
+173        <!--
+174            Service handling Google Sign-In user revocation. For apps that do not integrate with
+175            Google Sign-In, this service will never be started.
+176        -->
+177        <service
+177-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
+178            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+178-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
+179            android:exported="true"
+179-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
+180            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+180-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
+181            android:visibleToInstantApps="true" />
+181-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/bbef2cd3b63df4d75ffae80f1c9d5657/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
 182
-183        <service
-183-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
-184            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
-184-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
-185            android:enabled="true"
-185-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
-186            android:exported="false" >
-186-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
-187            <meta-data
-187-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
-188                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
-188-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
-189                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
-189-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
-190        </service>
-191
-192        <activity
-192-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
-193            android:name="androidx.credentials.playservices.HiddenActivity"
-193-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
-194            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
-194-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
-195            android:enabled="true"
-195-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
-196            android:exported="false"
-196-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
-197            android:fitsSystemWindows="true"
-197-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
-198            android:theme="@style/Theme.Hidden" >
-198-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/novalabs/.gradle/caches/transforms-4/b1f0b0a972985493b2f9ae095b4cff90/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
-199        </activity>
-200        <activity
-200-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:23:9-27:75
-201            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-201-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:24:13-93
-202            android:excludeFromRecents="true"
-202-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:25:13-46
-203            android:exported="false"
-203-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:26:13-37
-204            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-204-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:27:13-72
-205        <!--
-206            Service handling Google Sign-In user revocation. For apps that do not integrate with
-207            Google Sign-In, this service will never be started.
-208        -->
-209        <service
-209-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:33:9-37:51
-210            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-210-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:34:13-89
-211            android:exported="true"
-211-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:35:13-36
-212            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-212-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:36:13-107
-213            android:visibleToInstantApps="true" />
-213-->[com.google.android.gms:play-services-auth:20.7.0] /Users/novalabs/.gradle/caches/transforms-4/77be06ec5c13e3c2630e0c6c0abc17f1/transformed/play-services-auth-20.7.0/AndroidManifest.xml:37:13-48
-214
-215        <provider
-215-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/ab748626fa78e312aa97b9eaeb0f95f2/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-216            android:name="androidx.startup.InitializationProvider"
-216-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/ab748626fa78e312aa97b9eaeb0f95f2/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
-217            android:authorities="com.aduilio.mytasks.androidx-startup"
-217-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/ab748626fa78e312aa97b9eaeb0f95f2/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
-218            android:exported="false" >
-218-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/ab748626fa78e312aa97b9eaeb0f95f2/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
-219            <meta-data
-219-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/ab748626fa78e312aa97b9eaeb0f95f2/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
-220                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-220-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/ab748626fa78e312aa97b9eaeb0f95f2/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
-221                android:value="androidx.startup" />
-221-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/ab748626fa78e312aa97b9eaeb0f95f2/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
-222            <meta-data
-222-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/novalabs/.gradle/caches/transforms-4/e8baa973c0e371bc05fa777b295822e1/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:29:13-31:52
-223                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-223-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/novalabs/.gradle/caches/transforms-4/e8baa973c0e371bc05fa777b295822e1/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:30:17-78
-224                android:value="androidx.startup" />
-224-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/novalabs/.gradle/caches/transforms-4/e8baa973c0e371bc05fa777b295822e1/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:31:17-49
-225            <meta-data
-225-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
-226                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-226-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
-227                android:value="androidx.startup" />
-227-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
-228        </provider>
-229
-230        <activity
-230-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/d4d1748746dae7ce966e13c6306d9e3c/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
-231            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-231-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/d4d1748746dae7ce966e13c6306d9e3c/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
-232            android:exported="false"
-232-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/d4d1748746dae7ce966e13c6306d9e3c/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
-233            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-233-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/d4d1748746dae7ce966e13c6306d9e3c/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
-234
-235        <uses-library
-235-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/3b6aa64b5e173cdea7c66ea13cf21f14/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
-236            android:name="androidx.window.extensions"
-236-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/3b6aa64b5e173cdea7c66ea13cf21f14/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
-237            android:required="false" />
-237-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/3b6aa64b5e173cdea7c66ea13cf21f14/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
-238        <uses-library
-238-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/3b6aa64b5e173cdea7c66ea13cf21f14/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
-239            android:name="androidx.window.sidecar"
-239-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/3b6aa64b5e173cdea7c66ea13cf21f14/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
-240            android:required="false" />
-240-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/3b6aa64b5e173cdea7c66ea13cf21f14/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
-241
-242        <meta-data
-242-->[com.google.android.gms:play-services-basement:18.3.0] /Users/novalabs/.gradle/caches/transforms-4/3d8929c5e6c2989c480eca03c1e183da/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
-243            android:name="com.google.android.gms.version"
-243-->[com.google.android.gms:play-services-basement:18.3.0] /Users/novalabs/.gradle/caches/transforms-4/3d8929c5e6c2989c480eca03c1e183da/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
-244            android:value="@integer/google_play_services_version" />
-244-->[com.google.android.gms:play-services-basement:18.3.0] /Users/novalabs/.gradle/caches/transforms-4/3d8929c5e6c2989c480eca03c1e183da/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
-245
-246        <receiver
-246-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
-247            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-247-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
-248            android:directBootAware="false"
-248-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
-249            android:enabled="true"
-249-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
-250            android:exported="true"
-250-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
-251            android:permission="android.permission.DUMP" >
-251-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
-252            <intent-filter>
-252-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
-253                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-253-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
-253-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
-254            </intent-filter>
-255            <intent-filter>
-255-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
-256                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-256-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
-256-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
-257            </intent-filter>
-258            <intent-filter>
-258-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
-259                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-259-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
-259-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
-260            </intent-filter>
-261            <intent-filter>
-261-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
-262                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-262-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
-262-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/931eed2134a08d1c2275b7d8282062ec/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
-263            </intent-filter>
-264        </receiver>
-265
-266        <service
-266-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0ba80bf4ddf2755a6a01bc6120521830/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:28:9-34:19
-267            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-267-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0ba80bf4ddf2755a6a01bc6120521830/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:29:13-103
-268            android:exported="false" >
-268-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0ba80bf4ddf2755a6a01bc6120521830/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:30:13-37
-269            <meta-data
-269-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0ba80bf4ddf2755a6a01bc6120521830/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:31:13-33:39
-270                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-270-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0ba80bf4ddf2755a6a01bc6120521830/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:32:17-94
-271                android:value="cct" />
-271-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0ba80bf4ddf2755a6a01bc6120521830/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:33:17-36
-272        </service>
-273        <service
-273-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0d6c7e022723a4b0f2a5a3dddcdbabcb/transformed/transport-runtime-3.1.9/AndroidManifest.xml:26:9-30:19
-274            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-274-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0d6c7e022723a4b0f2a5a3dddcdbabcb/transformed/transport-runtime-3.1.9/AndroidManifest.xml:27:13-117
-275            android:exported="false"
-275-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0d6c7e022723a4b0f2a5a3dddcdbabcb/transformed/transport-runtime-3.1.9/AndroidManifest.xml:28:13-37
-276            android:permission="android.permission.BIND_JOB_SERVICE" >
-276-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0d6c7e022723a4b0f2a5a3dddcdbabcb/transformed/transport-runtime-3.1.9/AndroidManifest.xml:29:13-69
-277        </service>
-278
-279        <receiver
-279-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0d6c7e022723a4b0f2a5a3dddcdbabcb/transformed/transport-runtime-3.1.9/AndroidManifest.xml:32:9-34:40
-280            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-280-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0d6c7e022723a4b0f2a5a3dddcdbabcb/transformed/transport-runtime-3.1.9/AndroidManifest.xml:33:13-132
-281            android:exported="false" />
-281-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/0d6c7e022723a4b0f2a5a3dddcdbabcb/transformed/transport-runtime-3.1.9/AndroidManifest.xml:34:13-37
-282    </application>
-283
-284</manifest>
+183        <receiver
+183-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:29:9-40:20
+184            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+184-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:30:13-78
+185            android:exported="true"
+185-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:31:13-36
+186            android:permission="com.google.android.c2dm.permission.SEND" >
+186-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:32:13-73
+187            <intent-filter>
+187-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:33:13-35:29
+188                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+188-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:34:17-81
+188-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:34:25-78
+189            </intent-filter>
+190
+191            <meta-data
+191-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:37:13-39:40
+192                android:name="com.google.android.gms.cloudmessaging.FINISHED_AFTER_HANDLED"
+192-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:38:17-92
+193                android:value="true" />
+193-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:39:17-37
+194        </receiver>
+195        <!--
+196             FirebaseMessagingService performs security checks at runtime,
+197             but set to not exported to explicitly avoid allowing another app to call it.
+198        -->
+199        <service
+199-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:46:9-53:19
+200            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+200-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:47:13-82
+201            android:directBootAware="true"
+201-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:48:13-43
+202            android:exported="false" >
+202-->[com.google.firebase:firebase-messaging:24.0.1] /Users/novalabs/.gradle/caches/transforms-4/0f6d03c185919e81c02bc09326370fb0/transformed/firebase-messaging-24.0.1/AndroidManifest.xml:49:13-37
+203            <intent-filter android:priority="-500" >
+203-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:47:13-49:29
+204                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+204-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:48:17-78
+204-->/Users/novalabs/Documents/Pos/projetos/DM125/dm125-android-app/app/src/main/AndroidManifest.xml:48:25-75
+205            </intent-filter>
+206        </service>
+207
+208        <activity
+208-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/9aca74745cf900528d6fab40866ee1f5/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+209            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+209-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/9aca74745cf900528d6fab40866ee1f5/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+210            android:exported="false"
+210-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/9aca74745cf900528d6fab40866ee1f5/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+211            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+211-->[com.google.android.gms:play-services-base:18.0.1] /Users/novalabs/.gradle/caches/transforms-4/9aca74745cf900528d6fab40866ee1f5/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+212
+213        <provider
+213-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+214            android:name="com.google.firebase.provider.FirebaseInitProvider"
+214-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+215            android:authorities="com.aduilio.mytasks.firebaseinitprovider"
+215-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+216            android:directBootAware="true"
+216-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+217            android:exported="false"
+217-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+218            android:initOrder="100" />
+218-->[com.google.firebase:firebase-common:21.0.0] /Users/novalabs/.gradle/caches/transforms-4/d95d8783c45a8615a272025af1f64274/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+219        <provider
+219-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/34d189f5e1dbe6f5a22e6add8eb043c2/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+220            android:name="androidx.startup.InitializationProvider"
+220-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/34d189f5e1dbe6f5a22e6add8eb043c2/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+221            android:authorities="com.aduilio.mytasks.androidx-startup"
+221-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/34d189f5e1dbe6f5a22e6add8eb043c2/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+222            android:exported="false" >
+222-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/34d189f5e1dbe6f5a22e6add8eb043c2/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+223            <meta-data
+223-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/34d189f5e1dbe6f5a22e6add8eb043c2/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+224                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+224-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/34d189f5e1dbe6f5a22e6add8eb043c2/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+225                android:value="androidx.startup" />
+225-->[androidx.emoji2:emoji2:1.3.0] /Users/novalabs/.gradle/caches/transforms-4/34d189f5e1dbe6f5a22e6add8eb043c2/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+226            <meta-data
+226-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/novalabs/.gradle/caches/transforms-4/4b4b8d824f788a1cebe5c453549f2b44/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:29:13-31:52
+227                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+227-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/novalabs/.gradle/caches/transforms-4/4b4b8d824f788a1cebe5c453549f2b44/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:30:17-78
+228                android:value="androidx.startup" />
+228-->[androidx.lifecycle:lifecycle-process:2.8.6] /Users/novalabs/.gradle/caches/transforms-4/4b4b8d824f788a1cebe5c453549f2b44/transformed/lifecycle-process-2.8.6/AndroidManifest.xml:31:17-49
+229            <meta-data
+229-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+230                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+230-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+231                android:value="androidx.startup" />
+231-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+232        </provider>
+233
+234        <uses-library
+234-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/028226270700d421a58b653d54fb3bf6/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+235            android:name="androidx.window.extensions"
+235-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/028226270700d421a58b653d54fb3bf6/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+236            android:required="false" />
+236-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/028226270700d421a58b653d54fb3bf6/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+237        <uses-library
+237-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/028226270700d421a58b653d54fb3bf6/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+238            android:name="androidx.window.sidecar"
+238-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/028226270700d421a58b653d54fb3bf6/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+239            android:required="false" />
+239-->[androidx.window:window:1.0.0] /Users/novalabs/.gradle/caches/transforms-4/028226270700d421a58b653d54fb3bf6/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+240
+241        <meta-data
+241-->[com.google.android.gms:play-services-basement:18.3.0] /Users/novalabs/.gradle/caches/transforms-4/b7af2142eaf59336534cfa74fdb12948/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+242            android:name="com.google.android.gms.version"
+242-->[com.google.android.gms:play-services-basement:18.3.0] /Users/novalabs/.gradle/caches/transforms-4/b7af2142eaf59336534cfa74fdb12948/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+243            android:value="@integer/google_play_services_version" />
+243-->[com.google.android.gms:play-services-basement:18.3.0] /Users/novalabs/.gradle/caches/transforms-4/b7af2142eaf59336534cfa74fdb12948/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+244
+245        <receiver
+245-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+246            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+246-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+247            android:directBootAware="false"
+247-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+248            android:enabled="true"
+248-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+249            android:exported="true"
+249-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+250            android:permission="android.permission.DUMP" >
+250-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+251            <intent-filter>
+251-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+252                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+252-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+252-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+253            </intent-filter>
+254            <intent-filter>
+254-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+255                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+255-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+255-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+256            </intent-filter>
+257            <intent-filter>
+257-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+258                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+258-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+258-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+259            </intent-filter>
+260            <intent-filter>
+260-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+261                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+261-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+261-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/novalabs/.gradle/caches/transforms-4/b5ea9cb278b78b7efa5afa5d67e19177/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+262            </intent-filter>
+263        </receiver>
+264
+265        <service
+265-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/6682cf2896356d28e67a4b8be652b851/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:28:9-34:19
+266            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+266-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/6682cf2896356d28e67a4b8be652b851/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:29:13-103
+267            android:exported="false" >
+267-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/6682cf2896356d28e67a4b8be652b851/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:30:13-37
+268            <meta-data
+268-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/6682cf2896356d28e67a4b8be652b851/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:31:13-33:39
+269                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+269-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/6682cf2896356d28e67a4b8be652b851/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:32:17-94
+270                android:value="cct" />
+270-->[com.google.android.datatransport:transport-backend-cct:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/6682cf2896356d28e67a4b8be652b851/transformed/transport-backend-cct-3.1.9/AndroidManifest.xml:33:17-36
+271        </service>
+272        <service
+272-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/ec64b8193e99c761b45a7bbbba535a78/transformed/transport-runtime-3.1.9/AndroidManifest.xml:26:9-30:19
+273            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+273-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/ec64b8193e99c761b45a7bbbba535a78/transformed/transport-runtime-3.1.9/AndroidManifest.xml:27:13-117
+274            android:exported="false"
+274-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/ec64b8193e99c761b45a7bbbba535a78/transformed/transport-runtime-3.1.9/AndroidManifest.xml:28:13-37
+275            android:permission="android.permission.BIND_JOB_SERVICE" >
+275-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/ec64b8193e99c761b45a7bbbba535a78/transformed/transport-runtime-3.1.9/AndroidManifest.xml:29:13-69
+276        </service>
+277
+278        <receiver
+278-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/ec64b8193e99c761b45a7bbbba535a78/transformed/transport-runtime-3.1.9/AndroidManifest.xml:32:9-34:40
+279            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+279-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/ec64b8193e99c761b45a7bbbba535a78/transformed/transport-runtime-3.1.9/AndroidManifest.xml:33:13-132
+280            android:exported="false" />
+280-->[com.google.android.datatransport:transport-runtime:3.1.9] /Users/novalabs/.gradle/caches/transforms-4/ec64b8193e99c761b45a7bbbba535a78/transformed/transport-runtime-3.1.9/AndroidManifest.xml:34:13-37
+281    </application>
+282
+283</manifest>

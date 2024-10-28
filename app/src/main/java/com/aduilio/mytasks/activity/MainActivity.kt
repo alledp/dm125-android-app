@@ -197,18 +197,6 @@ class MainActivity : AppCompatActivity() {
 
         binding.fabNewTask.setOnClickListener {
             startActivity(Intent(this, TaskFormActivity::class.java))
-
-//            Log.e("thread", "Thread 1: ${Thread.currentThread().name}")
-//
-//            CoroutineScope(Dispatchers.Main).launch {
-//                Log.e("thread", "Thread 2: ${Thread.currentThread().name}")
-//                Thread.sleep(10000)
-//
-//                withContext(Dispatchers.Main) {
-//                    Log.e("thread", "Thread 3: ${Thread.currentThread().name}")
-//                    binding.tvMessage.setText("Finalizou")
-//                }
-//            }
         }
     }
 

@@ -4,7 +4,7 @@
             "outputFile": "com.aduilio.mytasks.app-mergeDebugResources-48:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/novalabs/.gradle/caches/transforms-4/298b76059ba8e651b0bfc5fcdf0b9974/transformed/appcompat-1.7.0/res/values-v22/values-v22.xml",
+                    "source": "/Users/novalabs/.gradle/caches/transforms-4/25226175c7c56a5a9ce12e3b00abdc68/transformed/appcompat-1.7.0/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
