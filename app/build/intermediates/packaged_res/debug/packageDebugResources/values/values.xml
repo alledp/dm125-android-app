@@ -8,7 +8,9 @@
     <color name="ic_launcher_background">#065CBE</color>
     <color name="orange_200">#FFE082</color>
     <color name="orange_700">#FFA000</color>
+    <color name="red_500">#F44336</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="yellow_500">#FFEB3B</color>
     <string name="GoogleLogin">Login com Google</string>
     <string name="accept">Aceito</string>
     <string name="app_name">MyTasks</string>
@@ -18,7 +20,7 @@
     <string name="daily_notification_on">Receber notificações diárias</string>
     <string name="date">Data</string>
     <string name="date_format">Formato da Data</string>
-    <string name="date_format_month_off">A data sera exibida com o número do mês 2021-12-01</string>
+    <string name="date_format_month_off">A data sera exibida com o número do mês 01/12/2021</string>
     <string name="date_format_month_on">A data sera exibida com o nome do mês 01 de Dezembro de 2021</string>
     <string name="default_web_client_id" translatable="false">875476115736-v0c6pqk2jgp7to13bnrfhia7b16gkn3b.apps.googleusercontent.com</string>
     <string name="description">Descrição</string>

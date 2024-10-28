@@ -2188,6 +2188,7 @@ int color primary_text_default_material_dark 0x7f05030b
 int color primary_text_default_material_light 0x7f05030c
 int color primary_text_disabled_material_dark 0x7f05030d
 int color primary_text_disabled_material_light 0x7f05030e
+int color red_500 0x7f05031e
 int color ripple_material_dark 0x7f05030f
 int color ripple_material_light 0x7f050310
 int color secondary_text_default_material_dark 0x7f050311
@@ -2203,6 +2204,7 @@ int color switch_thumb_normal_material_light 0x7f05031a
 int color tooltip_background_dark 0x7f05031b
 int color tooltip_background_light 0x7f05031c
 int color white 0x7f05031d
+int color yellow_500 0x7f05031f
 int dimen abc_action_bar_content_inset_material 0x7f060000
 int dimen abc_action_bar_content_inset_with_nav 0x7f060001
 int dimen abc_action_bar_default_height_material 0x7f060002

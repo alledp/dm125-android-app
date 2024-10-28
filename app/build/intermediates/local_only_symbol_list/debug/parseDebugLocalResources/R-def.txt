@@ -8,7 +8,9 @@ color green_700
 color ic_launcher_background
 color orange_200
 color orange_700
+color red_500
 color white
+color yellow_500
 drawable ic_add
 drawable ic_launcher_foreground
 drawable ic_notification

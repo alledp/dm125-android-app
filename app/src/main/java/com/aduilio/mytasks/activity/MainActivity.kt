@@ -167,13 +167,27 @@ class MainActivity : AppCompatActivity() {
         ItemTouchHelper(TaskItemTouchCallback(object : TaskItemSwipeListener {
             override fun onSwipe(position: Int) {
                 val task = tasksAdapter.getItem(position)
-                taskService.delete(task).observe(this@MainActivity) { responseDto ->
-                    if (responseDto.isError) {
-                        tasksAdapter.refreshItem(position)
-                    } else {
-                        tasksAdapter.deleteItem(position)
+
+                AlertDialog.Builder(this@MainActivity)
+                    .setTitle("Confirmação exigida!")
+                    .setMessage("Tem certeza que deseja apagar essa tarefa, essa ação não poderá ser revertida!!")
+                    .setPositiveButton("Sim"){ _, _, ->
+                        taskService.delete(task).observe(this@MainActivity) { responseDto ->
+                            if (responseDto.isError) {
+                                Toast.makeText(this@MainActivity, "Erro ao deletar a tarefa", Toast.LENGTH_SHORT).show()
+                                tasksAdapter.refreshItem(position)
+                            } else {
+                                tasksAdapter.deleteItem(position)
+                            }
+                        }
                     }
-                }
+                    .setNegativeButton("Não"){ _, _, ->
+                        tasksAdapter.refreshItem(position)
+                    }
+                    .setOnCancelListener(){
+                        tasksAdapter.refreshItem(position)
+                    }
+                    .show()
             }
         })).attachToRecyclerView(binding.rvTasks)
 
